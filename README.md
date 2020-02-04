@@ -1,2 +1,3 @@
-# luoxding.github.io
-记录疏理的知识，做个条理清析的笔记。
+# gitbook-template
+
+说明详见 https://github.com/riskers/blog/issues/48

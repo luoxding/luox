@@ -31,5 +31,5 @@ branches:
 
 env:
   global:
-    - REF=github.com/luoxding/luoxding.github.io.git # 设置 github 地址
+    - REF=github.com/luoxding/luox.git # 设置 github 地址
 
